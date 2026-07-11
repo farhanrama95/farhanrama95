@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✅Former Information System Student(Intelligent Information System)<br>🗿Teh tarik satu<br>💻Frontend dev<br>🤖Machine Learning fundamental<br>🚀Love to learn something new<br>🔥Coding silently, shows them the results</p>
+<p align="left">✅Former Information System Student (Intelligent Information System)<br>🗿Teh tarik satu<br>💻Frontend dev<br>🤖Machine Learning fundamental<br>🚀Love to learn something new<br>🔥Coding silently, shows them the results</p>
 
 ###
 
